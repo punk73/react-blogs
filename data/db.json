@@ -1,0 +1,7 @@
+{
+    "blogs" : [
+        {"title" : "Some Title", "body" : "3. Kurang Ventilasi Sirkulasi udara di dalam rumah itu sangat penting loh Genhype sehingga ventilasi udara itu memegang peranan utama yang membuat sebuah rumah terasa adem atau pengap. Jika ventilasinya kurang maka akan membuat hunian terasa sumpek. Jika tidak memiliki ventilasi atau jendela yang mencukupi maka kalian perlu membuka pintu pada waktu-waktu tertentu sehingga sirkulasi udaranya tetap terjaga. 4. Cat Dinding Tanpa disadari ternyata cat dinding juga ikut mempengaruhi suasana di dalam rumah loh Genhype. Jika kalian menggunakan cat dinding bernuansa gelap maka bisa menyerap panas da bisa memantulkan cahaya baik dari sinar matahai maupun lampu sehingga membuat hawa rumah jadi panas. Makin gelap cat yang digunakan maka ruangannya pun akan makin panas. 5. Rumah Berantakan Ternyata kondisi rumah yang berantakan karena banyaknya barang-barang tidak penting yang berserakan di dalamnya bisa membuat suasana rumah menjadi pengap ya Genhype.", "author" : "mario", "id" : 1},
+        {"title" : "Other Title", "body" : "lorem ipsum ...", "author" : "luigi", "id" : 2},
+        {"title" : "Another Title", "body" : "lorem ipsum ...", "author" : "tods", "id" : 3}
+    ]
+}
